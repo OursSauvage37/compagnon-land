@@ -1,0 +1,11 @@
+{
+  "name": "compagnon land",
+  "version": "1.0.0",
+  "description": "annonce des sauvetage gems of war",
+  "main": "index.js",
+  "author": "OursSauvage",
+  "license": "ISC",
+  "dependencies": {
+  "discord.js": "^13.5.0",
+}
+}
