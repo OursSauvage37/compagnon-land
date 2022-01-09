@@ -5,7 +5,6 @@
   "main": "index.js",
   "author": "OursSauvage",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": "",
   "discord.js": "^13.5.0",
-}
 }
